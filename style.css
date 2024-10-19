@@ -20,5 +20,5 @@
   width: 100px;
   height: 100px;
   background-color: var(--clr-box);
-  box-shadow: 30px 30px 0px var(--clr-box);
+  box-shadow: 200px 0 0px var(--clr-box); /*0 blur to make it identical boxes*/
 }
